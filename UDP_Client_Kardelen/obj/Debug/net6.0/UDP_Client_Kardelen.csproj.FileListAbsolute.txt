@@ -1,0 +1,15 @@
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\bin\Debug\net6.0\UDP_Client_Kardelen.exe
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\bin\Debug\net6.0\UDP_Client_Kardelen.deps.json
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\bin\Debug\net6.0\UDP_Client_Kardelen.runtimeconfig.json
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\bin\Debug\net6.0\UDP_Client_Kardelen.dll
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\bin\Debug\net6.0\ref\UDP_Client_Kardelen.dll
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\bin\Debug\net6.0\UDP_Client_Kardelen.pdb
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\obj\Debug\net6.0\UDP_Client_Kardelen.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\obj\Debug\net6.0\UDP_Client_Kardelen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\obj\Debug\net6.0\UDP_Client_Kardelen.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\obj\Debug\net6.0\UDP_Client_Kardelen.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\obj\Debug\net6.0\UDP_Client_Kardelen.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\obj\Debug\net6.0\UDP_Client_Kardelen.dll
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\obj\Debug\net6.0\ref\UDP_Client_Kardelen.dll
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\obj\Debug\net6.0\UDP_Client_Kardelen.pdb
+C:\Users\Ahmet\source\repos\UDP_Client_Kardelen\obj\Debug\net6.0\UDP_Client_Kardelen.genruntimeconfig.cache
